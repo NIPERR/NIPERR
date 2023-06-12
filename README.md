@@ -22,3 +22,4 @@ Pare słów o mnie:
 
 ### Kontakt:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/NIPERR0)
+[![Discord](https://img.shields.io/discord/836617868899909632?style=for-the-badge)](https://discord.gg/piwnica)
