@@ -7,9 +7,9 @@
 Pare słów o mnie:
 -->
 
--  Kocham Linuxa całym sercem
--  Uczę się programować ale jak narazie za mną długa droga
--  Zajmuje się również prowadzeniem kanału na YouTube oraz muzyką
+-  Miłośnik Linuxa 🐧
+-  Zajmuję się informatyką i okazjonalnie muzyką...
+-  Zajmuje się również prowadzeniem kanału na YouTube
 -  Zaimki: He/Him
 
 <details>
