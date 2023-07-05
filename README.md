@@ -8,7 +8,6 @@
 
 Czym się zajmuję:
 -->
-
 -  Linuxem i rzeczami z nim powiązanymi
 -  Informatyką i wszystkim pobocznym co z nią związane 
 -  Prowadzeniem kanału na YouTube
