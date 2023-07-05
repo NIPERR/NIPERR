@@ -6,6 +6,8 @@
 <!--
 **NIPER/NIPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Parę słów o mnie:
+-->
 
 -  Korzystam z Arch Linuxa 🐧
 -  Będę tutaj robić ciekawe projekty 🌺 
