@@ -1,6 +1,6 @@
 ### Hej Witajcie! 👋
 ### Moje imię to Marcel AKA NIPER.
-[![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)]
+![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
 
 <!--
 **NIPER/NIPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
