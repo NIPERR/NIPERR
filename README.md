@@ -1,5 +1,6 @@
 ### Hej Witajcie! 👋
 ### Moje imię to Marcel AKA NIPER.
+(https://discord.com/channels/836617868899909632/842347037731192832/1126264420646006864)
 
 <!--
 **NIPER/NIPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
