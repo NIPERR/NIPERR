@@ -6,13 +6,14 @@
 <!--
 **NIPER/NIPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Pare słów o mnie:
+Czym się zajmuję:
 -->
 
--  Miłośnik Linuxa 🐧
--  Zajmuję się informatyką i okazjonalnie muzyką...
--  Zajmuje się również prowadzeniem kanału na YouTube
--  Zaimki: He/Him
+-  Linuxem i rzeczami z nim powiązanymi
+-  Informatyką i wszystkim pobocznym co z nią związane 
+-  Prowadzeniem kanału na YouTube
+-  pół-profesjonalną obróbką grafiki i montażem 
+-  okazjonalnie muzyką 
 
 ![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
 <details>
