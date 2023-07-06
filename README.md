@@ -26,5 +26,5 @@ Parę słów o mnie:
 ![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
 ### Kontakt:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/NIPERR0)
-![@niperr](https://dcbadge.vercel.app/api/shield/USERID/744681368335810642)
+![@niperr](https://dcbadge.vercel.app/api/shield/USERID744681368335810642)
 ![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
