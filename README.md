@@ -9,7 +9,6 @@
 :
 -->
 Parę słów o mnie:
--->
 
 -  Korzystam z Arch Linuxa 🐧
 -  Będę tutaj robić ciekawe projekty 🌺 
