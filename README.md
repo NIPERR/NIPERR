@@ -20,7 +20,7 @@ Parę słów o mnie:
      • CPU: Intel Core i7-4770S<br>
      • Memory: 24 GB DDR3/DDR3L<br>
      • GPU: NVIDIA Geforce GTX 1050Ti <br>
-     • Disk: 256 GB SSD
+     • Disk: 1TB SSD
 </details>
 
 ![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
