@@ -10,7 +10,7 @@
 -->
 Parę słów o mnie:
 
--  Korzystam z Arch Linuxa 🐧
+-  Korzystam z ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 -  Będę tutaj robić ciekawe projekty 🌺 
 -  Uczę się programować 🧑‍💻
 
