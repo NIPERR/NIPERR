@@ -10,7 +10,7 @@
 -->
 Parę słów o mnie:
 
--  Korzystam z ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+-  Korzystam z Arch Linux
 -  Będę tutaj robić ciekawe projekty 🌺 
 -  Uczę się programować 🧑‍💻
 
@@ -24,7 +24,7 @@ Parę słów o mnie:
 </details>
 
 ![Image](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png)
-### Kontakt:
+### Gdzie mnie spotkacie:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/NIPERR0)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qF39cf7Ccu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/niperro?igshid=NGExMmI2YTkyZg==)
