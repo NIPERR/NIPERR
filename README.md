@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-   Hej, witaj na moim profilu! 
+   Witaj na moim profilu github! 
    <img src="https://i.imgur.com/Zw2ELB8.gif" width="28" /> 
  </h1> 
   
