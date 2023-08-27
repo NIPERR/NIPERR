@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-   Cześć, hej, witaj na moim profilu! 
+   Hej, cześć, witaj na moim profilu! 
    <img src="https://i.imgur.com/Zw2ELB8.gif" width="28" /> 
  </h1> 
   
