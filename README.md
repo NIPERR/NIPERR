@@ -20,6 +20,6 @@
   
  <p align="center"> 
    <a href="#"> 
-     <img alt="NIPER's streak" src="https://streak-stats.demolab.com?user=NIPERR&theme=graywhite&locale=pl&date_format=j%2Fn%5B%2FY%5D" /> 
+     <img alt="NIPER's streak" src="https://streak-stats.demolab.com?user=NIPERR&theme=dark&locale=pl&date_format=j%2Fn%5B%2FY%5D" /> 
    </a> 
  </p>
