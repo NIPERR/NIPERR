@@ -30,6 +30,6 @@
   
  <p align="center"> 
    <a href="#"> 
-     <img alt="NIPER's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niperr&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only" /> 
+     <img alt="NIPER's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niperr&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only" /> 
    </a> 
  </p>
