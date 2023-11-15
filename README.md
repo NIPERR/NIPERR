@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <details> 
-  <summary><h2>🌌 Statystyki</h2></summary>
+  <summary><h2>Statystyki i aktywność</h2></summary>
  <h3 align="center"> 
    🌌 Statystyki
  </h3> 
