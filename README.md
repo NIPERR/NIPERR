@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/NIPERR"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/NIPERR/NIPERR/assets/82673619/58f0ade3-89bf-4fad-a26f-8b6dfbfc14e1"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/NIPERQ"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/NIPERQ"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/88ab0671-191d-4e7c-a86f-568a67b3f170"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
  <h3 align="center"> 
