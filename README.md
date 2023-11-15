@@ -1,6 +1,6 @@
 <h1 align="center">
    <img src="![fvghhh](https://github.com/NIPERR/NIPERR/assets/82673619/c16a0340-0709-4d8f-899e-883017f64fa6)
-" width="28" /> 
+" width="100" /> 
  </h1> 
   
  <h3 align="center"> 
