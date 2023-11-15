@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/NIPERQ"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/88ab0671-191d-4e7c-a86f-568a67b3f170"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/niperro"><img width="30px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/2c89001e-a26d-47f5-9eda-f1bda74ecd76"/></a>
+  <a href="https://instagram.com/niperro"><img width="28px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/2c89001e-a26d-47f5-9eda-f1bda74ecd76"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://twitch.tv/niperro"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/849a1fdd-f5e4-4f9e-b0be-2127c19e9751"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
