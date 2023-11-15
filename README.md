@@ -6,6 +6,8 @@
 <!-- chmury fajne :P -->
 <p align="center">
    <a href="#"> 
+   <img width="100px" src="https://github.com/NIPERR/NIPERR/assets/82673619/c8467f99-9541-47c5-90bd-a5f2b6f06cb4" />
+   <img width="100px" src="https://github.com/NIPERR/NIPERR/assets/82673619/c8467f99-9541-47c5-90bd-a5f2b6f06cb4" /> 
    <img width="100px" src="https://github.com/NIPERR/NIPERR/assets/82673619/c8467f99-9541-47c5-90bd-a5f2b6f06cb4" /> 
  </p> 
       
