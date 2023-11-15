@@ -3,7 +3,7 @@
    <img src="https://github.com/NIPERR/NIPERR/assets/82673619/9dd1a07f-f97d-4941-a7c0-cadbad57ec2e" /> 
  </p> 
 
-<!-- Social icons section -->
+<!-- skecja z moich social media -->
 <p align="center">
   <a href="https://www.youtube.com/c/NIPERR"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/NIPERR/NIPERR/assets/82673619/58f0ade3-89bf-4fad-a26f-8b6dfbfc14e1"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -13,7 +13,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://twitch.tv/niperro"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/NIPERR/NIPERR/assets/82673619/849a1fdd-f5e4-4f9e-b0be-2127c19e9751"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   
+
+  <details> 
+  <summary><h2>🌌 Statystyki</h2></summary>
  <h3 align="center"> 
    🌌 Statystyki
  </h3> 
