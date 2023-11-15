@@ -1,6 +1,6 @@
 <p align="center">
    <a href="#"> 
-   <img src="https://github.com/NIPERR/NIPERR/assets/82673619/d1ac5595-5d0d-46cc-bf98-e9c35269d50d" /> 
+   <img src="https://github.com/NIPERR/NIPERR/assets/82673619/9dd1a07f-f97d-4941-a7c0-cadbad57ec2e" /> 
  </p> 
   
  <h3 align="center"> 
