@@ -3,6 +3,12 @@
    <img src="https://github.com/NIPERR/NIPERR/assets/82673619/9dd1a07f-f97d-4941-a7c0-cadbad57ec2e" /> 
  </p> 
 
+<!-- chmury fajne :P -->
+<p align="center">
+   <a href="#"> 
+   <img src="https://github.com/NIPERR/NIPERR/assets/82673619/c8467f99-9541-47c5-90bd-a5f2b6f06cb4" /> 
+ </p> 
+      
 <!-- skecja z moich social media -->
 <p align="center">
   <a href="https://www.youtube.com/c/NIPERR"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/NIPERR/NIPERR/assets/82673619/58f0ade3-89bf-4fad-a26f-8b6dfbfc14e1"/></a>
